@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "684423330852",
+    "firebase_url": "https://education3d.firebaseio.com",
+    "project_id": "education3d",
+    "storage_bucket": "education3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684423330852:android:db9b17b42019794e2a2cb1",
+        "android_client_info": {
+          "package_name": "com.Dataviv.Education3D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684423330852-a60u9o29avdogkscm1qfajn08g5cej4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA142jzX2H0WtKE4two1syVnbz17ba1oZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684423330852-a60u9o29avdogkscm1qfajn08g5cej4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

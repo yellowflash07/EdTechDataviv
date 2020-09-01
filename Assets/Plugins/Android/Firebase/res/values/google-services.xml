@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://education3d.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">684423330852</string>
+  <string name="google_storage_bucket" translatable="false">education3d.appspot.com</string>
+  <string name="project_id" translatable="false">education3d</string>
+  <string name="google_api_key" translatable="false">AIzaSyA142jzX2H0WtKE4two1syVnbz17ba1oZc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA142jzX2H0WtKE4two1syVnbz17ba1oZc</string>
+  <string name="google_app_id" translatable="false">1:684423330852:android:db9b17b42019794e2a2cb1</string>
+  <string name="default_web_client_id" translatable="false">684423330852-a60u9o29avdogkscm1qfajn08g5cej4b.apps.googleusercontent.com</string>
+</resources>
